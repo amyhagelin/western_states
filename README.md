@@ -1,2 +1,2 @@
 # western_states
-Study came for western US states
+Study game for western US states
